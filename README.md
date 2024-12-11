@@ -1,6 +1,6 @@
 # Pedra, Papel e Tesoura
 
-[IMAGEM DO MENU]
+![Screenshot do Projeto](images/print-menu.png)
 
 O projeto **Pedra, Papel e Tesoura** foi desenvolvido como um exercício de fixação dos conceitos de Spring MVC, como interface de usuário em HTML e CSS!
 ## Índice
@@ -34,6 +34,8 @@ Para acessar, o JDBC URL é:
 - Veja o resultado e a pontuação acumulada.
 
 A interface apresentará três opções a ser escolhido, ao clicar em uma delas, será redirecionado para uma página que mostrará os resultados, podendo repetir as jogadas com o botão de "Voltar" e também usar o botão de "Resetar a pontuação", caso queira zerar a pontuação.
+
+![Screenshot do Projeto](images/print-resultado.png)
 
 ## Funcionalidades
 - Contabilizar as vitórias, derrotas e empates.
